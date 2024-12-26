@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484863029808",
+    "project_id": "rnpushnotification-4a193",
+    "storage_bucket": "rnpushnotification-4a193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484863029808:android:07dedde9b74569938573f5",
+        "android_client_info": {
+          "package_name": "com.maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt0UpkSjOyLmkD42nYYDhBpDiQOGt9rDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
